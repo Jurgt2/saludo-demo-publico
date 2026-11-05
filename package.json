@@ -1,0 +1,7 @@
+{
+  "name": "saludo-demo-publico",
+  "version": "1.0.0",
+  "description": "Paquete de prueba público para instalar con npm desde Git",
+  "main": "index.js",
+  "license": "MIT"
+}
